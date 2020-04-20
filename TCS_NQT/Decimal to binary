@@ -1,1 +1,7 @@
 #Program to convert decimal to binary
+n=int(input())
+print('{:0b}'.format(n)) #method1
+
+#method2
+b=bin(n)[2:] 
+print(b)
