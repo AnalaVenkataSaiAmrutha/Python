@@ -1,3 +1,5 @@
+#Program to convert binary to decimal number
+
 
 #method1
 n=input()
